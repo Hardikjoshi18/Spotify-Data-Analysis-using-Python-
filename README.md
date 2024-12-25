@@ -51,3 +51,4 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 ## For any queries/doubts 🔗 👇 
 
 ### [AAYAN SHAIKH](https://amackcode.blogspot.com/)
+### [Hardik joshi](https://github.com/Hardikjoshi18)/)
